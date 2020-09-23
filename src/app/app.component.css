@@ -1,0 +1,36 @@
+.main {
+  padding: 0 5rem;
+  padding-top: 2rem;
+}
+.search-form form{
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 50%;
+}
+.search-input{
+  width: 70%;
+}
+.search-btn{
+  margin-left: 3rem;
+  padding-top: 3px;
+ 
+}
+
+.error{
+  color: red;
+}
+
+.cards{
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.card{
+  width: 50%;
+}
+
+
+
